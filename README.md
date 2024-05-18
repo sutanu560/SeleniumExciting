@@ -7,7 +7,7 @@
 - Excel Sheet for Test Data → Data Provider
 - Read the username and password from Properties- 
 - TestNG, @Test, Before and After Method.
-- Cloud Grids
+- Cloud Grid
 - SonarLint, Java > 8
 - Run Local and on Selenoid Integration
 
